@@ -6,7 +6,7 @@ RaceDay is a system for managing race events. Organisers can create and
 manage events (e.g. marathons, fun runs, trail challenges), each of which
 can have multiple categories (e.g. 5km, 10km, Half Marathon). Participants
 can browse events, enrol in a specific event category, and view their
-results once the event has taken place.
+results once the event has taken place. 
 
 This repository contains the Part 1 planning deliverables: the Entity
 Relationship Diagram (ERD), the API endpoint plan, and the SQL script
