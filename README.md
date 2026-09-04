@@ -40,7 +40,6 @@ runs on every push and pull request to `main`. It checks that:
 
 **Screenshot of a successful (green) build:**
 
-_(Insert screenshot here once your Actions workflow has run successfully.)_
 
 ## Video Walkthrough
 
