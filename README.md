@@ -38,9 +38,6 @@ runs on every push and pull request to `main`. It checks that:
 - the ERD, endpoint plan, and SQL script are present inside it
 - `README.md` exists at the repository root
 
-**Screenshot of a successful (green) build:**
-
-
 ## Video Walkthrough
 
 Unlisted YouTube video walking through the planning documents, the ERD
